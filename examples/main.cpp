@@ -143,7 +143,7 @@ void example_points()
 
 void help()
 {
-    std::cout << "Send to example soft value from 0 to 4 for choose example:" << std::endl;
+    std::cout << "Send to example soft value from 0 to 5 for choose example:" << std::endl;
     std::cout << "0 - example_text" << std::endl;
     std::cout << "1 - example_circle" << std::endl;
     std::cout << "2 - example_move_text_line_circle" << std::endl;
